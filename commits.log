@@ -1,0 +1,437 @@
+Sat May 11 01:55:22 2019 +0100
+Fixed Recording View not toggling
+
+Fri May 10 19:41:15 2019 +0100
+Recording API Tweaks & Checks
+
+Fri May 10 19:33:40 2019 +0100
+Checks to try avoid an error by trying to deserialize an error message.
+
+Fri May 10 19:29:16 2019 +0100
+Reordered
+
+Fri May 10 19:28:49 2019 +0100
+Additional Check
+
+Fri May 10 19:27:22 2019 +0100
+Safety Check
+
+Fri May 10 18:28:06 2019 +0100
+Colour Button Improvements
+
+Fri May 10 15:57:10 2019 +0100
+.
+
+Fri May 10 15:50:37 2019 +0100
+Added missing catch
+
+Fri May 10 15:49:28 2019 +0100
+Added the ability to get the Working Directory of a process
+Fixed Enabling ReplayAPI + Launching Game
+Removed the GET Timeout on everything but the Check to see if the game is the correct process.
+
+Fri May 10 11:44:31 2019 +0100
+Fixed to Game Scanner
+
+Thu May 9 15:53:21 2019 +0100
+Increase Slider Maximum with the DOF Far NumericUpDown
+
+Thu May 9 11:36:22 2019 +0100
+Added Exception throw if Port isn't found and the configs do have ReplayAPI Enabled.
+
+Thu May 9 11:33:26 2019 +0100
+.
+
+Thu May 9 11:32:44 2019 +0100
+Fixed Enabling ReplayAPI
+
+Thu May 9 11:30:54 2019 +0100
+Forced Release to x86
+
+Wed May 8 18:49:52 2019 +0100
+Sometime Hotkeys now check to ensure the timeline is focused
+
+Wed May 8 18:40:12 2019 +0100
+Updates Particle List when its emptied or user starts to search.
+
+Wed May 8 14:00:26 2019 +0100
+.
+
+Wed May 8 09:21:05 2019 +0100
+Fixed issue where different keyframe types would still show their value boxes
+
+Tue May 7 22:25:26 2019 +0100
+Reduces Redraw Flickering Massively somehow
+
+Tue May 7 21:52:02 2019 +0100
+Particle List Keeps filter after dock/undock
+
+Tue May 7 20:38:16 2019 +0100
+.
+
+Tue May 7 20:35:51 2019 +0100
+.
+
+Tue May 7 20:22:07 2019 +0100
+Fixed NullException on CreatorSuite Pathing
+Fixed RewindTime Check
+
+Tue May 7 20:00:51 2019 +0100
+Fixed System.NullReferenceException in GetStartEndTime
+Potentially Fixed ObjectDisposedException in UpdateFilter
+
+Tue May 7 18:57:51 2019 +0100
+Added Textbox Watermark/Cue/Prompt to Particles
+Added TODOS
+
+Mon May 6 22:13:16 2019 +0100
+Massively Optimized Reading Replays
+
+Mon May 6 21:57:36 2019 +0100
+Fixed Game Settings
+Fixed Recording Settings
+Added REST Timeout
+
+Mon May 6 21:10:24 2019 +0100
+Added FPS Option to Recording.
+
+Mon May 6 20:20:33 2019 +0100
+Fixes
+
+Mon May 6 18:41:31 2019 +0100
+Fixed for command line reading
+
+Sun May 5 20:16:17 2019 +0100
+Fixed Roll Hotkey
+Added Space to Play/Stop
+
+Sun May 5 16:30:20 2019 +0100
+QoL
+
+Sun May 5 12:21:42 2019 +0100
+Check if admin rights is needed added.
+
+Sun May 5 10:28:48 2019 +0100
+Readded Redundant Check
+
+Sun May 5 00:57:57 2019 +0100
+Strong Name Keys and Obfuscation Settings Added
+
+Sun May 5 00:49:09 2019 +0100
+Restructure
+
+Sat May 4 23:48:03 2019 +0100
+Activate Keyframes Fix
+
+Sat May 4 23:27:12 2019 +0100
+Creator Suite Pathing Added
+
+Sat May 4 22:42:41 2019 +0100
+Creator Suite Pathing Added.
+
+Sat May 4 18:36:14 2019 +0100
+.
+
+Sat May 4 18:31:02 2019 +0100
+Cleanup
+
+Sat May 4 18:05:01 2019 +0100
+Fixed Memoryleak.
+Get Replay from the Command Line.
+
+Fri May 3 17:01:04 2019 +0100
+Moved Blend to Sequence and Added Creator Suite Blend
+
+Fri May 3 15:08:11 2019 +0100
+.
+
+Fri May 3 15:04:20 2019 +0100
+Reliable method to see if the ReplayAPI is enabled on the game.
+
+Thu May 2 20:48:28 2019 +0100
+Enable Replay API
+
+Thu May 2 19:29:20 2019 +0100
+Drag Toggle Support for Particles
+Creator Suite Internal Riot Detection
+
+Thu Apr 25 22:00:40 2019 +0100
+Added Fog of War, FloatingText and Particles UI Update to UpdateVisibility Tick.
+
+Fri Apr 19 10:50:31 2019 +0100
+Fixed unhandled Exception
+
+Sat Apr 13 23:26:41 2019 +0100
+Fixed Crash on Close
+
+Fri Apr 12 21:18:34 2019 +0100
+Sequence Loading Complete
+Could use a huge cleanup though.
+
+Fri Apr 12 21:13:54 2019 +0100
+Sequence Loading
+
+Wed Mar 27 15:07:55 2019 +0000
+Fixed Recording Bug where Keyframes weren't applied
+Added some settings
+Added even more todos
+Added Replay Detection (TODO: Add EnableReplayAPI to Configs)
+
+Fri Mar 22 18:45:46 2019 +0000
+More Hotkeys
+
+Fri Mar 22 18:35:54 2019 +0000
+Cleanup
+
+Fri Mar 22 16:52:26 2019 +0000
+Cleanup
+
+Fri Mar 22 16:36:28 2019 +0000
+Recording Tab Completed
+
+Fri Mar 22 15:07:27 2019 +0000
+Recording UI Progress
+
+Fri Mar 22 14:39:11 2019 +0000
+Recording Panel Progress and Shuffle of some API Data
+
+Wed Mar 20 19:24:04 2019 +0000
+Recording Tweaks
+
+Wed Mar 20 18:08:49 2019 +0000
+Start of Recording Settings
+
+Wed Mar 20 14:39:07 2019 +0000
+tweaks
+
+Tue Mar 19 22:27:12 2019 +0000
+Vector3 Made Nullable to fix JSON Serialization
+
+Tue Mar 19 18:42:57 2019 +0000
+Made timeline disable track and add keyframe button slightly bigger.
+
+Mon Mar 18 23:03:53 2019 +0000
+Visibility Characters Fix
+
+Mon Mar 18 22:38:22 2019 +0000
+Visibility Hookup
+
+Mon Mar 18 19:05:51 2019 +0000
+Start of Layout Menu
+
+Mon Mar 18 18:36:02 2019 +0000
+Visbility UI, Start of UI Location Saving.
+
+Mon Mar 18 13:56:22 2019 +0000
+Improvements
+
+Sun Mar 17 10:23:42 2019 +0000
+Fixes
+
+Fri Mar 15 16:02:59 2019 +0000
+Hotkey Hookups
+
+Thu Mar 14 23:04:39 2019 +0000
+Some Lock Stuff
+
+Thu Mar 14 22:03:17 2019 +0000
+Start of Hotkeys
+
+Thu Mar 14 17:10:56 2019 +0000
+Fixes
+
+Thu Mar 14 16:28:54 2019 +0000
+Timeline Play/Pause/Stop buttons
+
+Thu Mar 14 12:52:35 2019 +0000
+Play & Stop Keyframes added
+
+Wed Mar 13 21:11:25 2019 +0000
+.
+
+Tue Mar 12 21:48:04 2019 +0000
+.
+
+Tue Mar 12 20:40:49 2019 +0000
+UI Hookup
+
+Tue Mar 12 15:09:05 2019 +0000
+callbacks
+
+Tue Mar 12 14:15:09 2019 +0000
+Sequence Progress
+
+Tue Mar 12 13:24:07 2019 +0000
+Sequence WIP
+
+Mon Mar 11 17:33:14 2019 +0000
+.
+
+Mon Mar 11 16:37:40 2019 +0000
+Particle List Complete
+
+Mon Mar 11 16:30:42 2019 +0000
+Particle List Finished
+
+Mon Mar 11 14:29:29 2019 +0000
+Particle List Complete?
+
+Mon Mar 11 14:20:35 2019 +0000
+Particle List Progress
+
+Mon Mar 11 13:57:29 2019 +0000
+Particle List Addition
+
+Mon Mar 11 13:39:57 2019 +0000
+Particles Endpoint Added
+
+Sun Mar 10 15:48:53 2019 +0000
+Added Ability to Select Open Games
+
+Sat Mar 9 20:49:34 2019 +0000
+Process GetCommandline Added
+
+Sat Mar 9 19:37:03 2019 +0000
+Added GetCommandLine (Slightly Broken Currently)
+
+Sat Mar 9 18:38:12 2019 +0000
+Custom Process Extension for getting opened files in a process
+
+Thu Mar 7 18:26:04 2019 +0000
+Added long sleeps if REST isn't connected
+
+Thu Mar 7 17:52:22 2019 +0000
+Setting Hookup Tweak
+
+Thu Mar 7 17:43:22 2019 +0000
+Settings Hookup
+
+Thu Mar 7 16:48:28 2019 +0000
+Settings WIP
+
+Thu Mar 7 15:36:47 2019 +0000
+.
+
+Thu Mar 7 14:47:38 2019 +0000
+.
+
+Thu Mar 7 13:46:32 2019 +0000
+Added time scrubber to Timeline.  Fixed issue with Render and Playback.
+
+Wed Mar 6 20:29:08 2019 +0000
+Tweaked hwo threads start
+
+Wed Mar 6 20:08:05 2019 +0000
+Playback Updated to new structure
+
+Wed Mar 6 19:18:48 2019 +0000
+Render Fixes and Hookups
+
+Wed Mar 6 18:25:03 2019 +0000
+QoL
+
+Wed Mar 6 16:49:36 2019 +0000
+Removed test code
+
+Wed Mar 6 16:43:19 2019 +0000
+Skybox Colour Fix
+
+Wed Mar 6 15:10:36 2019 +0000
+UI Hookup
+
+Tue Mar 5 21:42:52 2019 +0000
+More UI Hook ups, just comboboxes left.
+
+Tue Mar 5 19:48:49 2019 +0000
+Track Checkboxes
+
+Tue Mar 5 12:18:23 2019 +0000
+Added Lock just for some security
+
+Tue Mar 5 00:34:02 2019 +0000
+UI Lag Fix
+
+Mon Mar 4 22:38:26 2019 +0000
+Render Class Finished?
+
+Mon Mar 4 21:13:44 2019 +0000
+More Render Changes
+
+Mon Mar 4 20:53:30 2019 +0000
+Render Overhaul
+
+Mon Mar 4 19:36:13 2019 +0000
+SunDirection Tweaks
+
+Mon Mar 4 19:10:32 2019 +0000
+UI Tweaks
+
+Mon Mar 4 19:03:14 2019 +0000
+hookups
+
+Mon Mar 4 18:11:18 2019 +0000
+Rest of the Databinds
+
+Mon Mar 4 18:05:35 2019 +0000
+Databinding Hookup
+
+Sun Mar 3 23:09:52 2019 +0000
+Render Overhaul for Databinding
+
+Sun Mar 3 20:32:05 2019 +0000
+Control Naming
+
+Sun Mar 3 19:12:20 2019 +0000
+Minor Fix
+
+Sun Mar 3 19:10:25 2019 +0000
+Start of Recording & Sequence API Calls
+
+Sun Mar 3 17:45:33 2019 +0000
+Render API Functions Added
+
+Sun Mar 3 17:05:28 2019 +0000
+More API Additions
+
+Sun Mar 3 16:18:02 2019 +0000
+Render API Progress
+
+Sun Mar 3 15:39:54 2019 +0000
+Start of Rest Services and Accessing the API
+
+Sun Mar 3 14:37:40 2019 +0000
+Added UI Elements
+
+Sun Mar 3 00:40:41 2019 +0000
+.
+
+Sun Mar 3 00:39:28 2019 +0000
+.
+
+Sun Mar 3 00:38:36 2019 +0000
+Game Settings UI Improvements
+
+Sun Mar 3 00:06:58 2019 +0000
+Collapsable UI
+
+Sat Mar 2 22:52:12 2019 +0000
+UI Complete
+
+Sat Mar 2 22:36:40 2019 +0000
+Sun Direction + More Options
+
+Fri Mar 1 16:15:40 2019 +0000
+UI
+
+Thu Feb 28 20:44:33 2019 +0000
+Basic Menu View
+
+Thu Feb 28 20:24:27 2019 +0000
+ToolMenu
+
+Thu Feb 28 16:34:38 2019 +0000
+Context Menu Start
+
+Thu Feb 28 15:07:06 2019 +0000
+project
+
