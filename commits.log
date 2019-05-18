@@ -1,3 +1,6 @@
+Sat May 18 18:54:54 2019 +0100
+Added Visibility Hotkeys #1
+
 Wed May 15 22:39:36 2019 +0100
 Fixed a bug where reactivating play keyframes just at the end of the sequence finishing didn't replay them.
 Tweaked Keyframe timing again, 250ms -> 150ms
