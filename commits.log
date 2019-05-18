@@ -1,3 +1,18 @@
+Wed May 15 22:39:36 2019 +0100
+Fixed a bug where reactivating play keyframes just at the end of the sequence finishing didn't replay them.
+Tweaked Keyframe timing again, 250ms -> 150ms
+Forced a UI + Local Class Update when ActivateKeyframes Sets the GameTime
+Small Code Cleanup
+
+Wed May 15 20:50:55 2019 +0100
+More timing tweaks for the keyframes.
+
+Wed May 15 20:42:06 2019 +0100
+Reduced rate of sending CreatorSuite Keyframes to try reduce the jittering
+
+Wed May 15 20:06:59 2019 +0100
+Added new Configuration for compiling.
+
 Sat May 11 01:55:22 2019 +0100
 Fixed Recording View not toggling
 
