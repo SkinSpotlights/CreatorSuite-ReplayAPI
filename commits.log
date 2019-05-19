@@ -1,3 +1,15 @@
+Sun May 19 01:52:55 2019 +0100
+Changed > maximum to >= maximum so 360 = 0
+
+Sun May 19 01:49:03 2019 +0100
+Added NumericUpDown Cyclic Option - Applied to Yaw & Roll.
+
+Sun May 19 01:35:28 2019 +0100
+Fixed roll direction hotkeys so they roll the correct way.
+
+Sun May 19 01:15:46 2019 +0100
+Improved Activate Keyframes when using CreatorSuite Blend
+
 Sun May 19 00:56:17 2019 +0100
 Added #8 Roll Clamping Between 0 and 360 and Normalizing the Value to between [0, 360] when submitting keyframes to ReplayAPI Sequence.
 
