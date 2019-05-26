@@ -1,3 +1,12 @@
+Sun May 26 10:31:16 2019 +0100
+Added S Icon
+
+Sun May 26 10:29:50 2019 +0100
+.
+
+Sun May 26 10:28:23 2019 +0100
+Settings now get saved into the settings folder.
+
 Fri May 24 04:14:03 2019 +0100
 Swapped out File.Read and File.Write with WriteSafe alternatives to stop it throwing an error if config files are being accessed by something else.
 
