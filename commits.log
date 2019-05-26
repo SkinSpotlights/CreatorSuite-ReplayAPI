@@ -1,3 +1,15 @@
+Fri May 24 04:14:03 2019 +0100
+Swapped out File.Read and File.Write with WriteSafe alternatives to stop it throwing an error if config files are being accessed by something else.
+
+Tue May 21 13:54:35 2019 +0100
+Fixed some bugs with Saving/Loading Settings
+
+Tue May 21 13:50:29 2019 +0100
+Added Setting Saving/Loading
+
+Mon May 20 16:40:15 2019 +0100
+Added Showing Keyframe Info in a Tooltip when a keyframe is hovered for 500ms
+
 Sun May 19 14:51:44 2019 +0100
 Adjusted Timeline View so you can scroll out entirely
 
