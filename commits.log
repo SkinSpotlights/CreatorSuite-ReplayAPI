@@ -1,3 +1,6 @@
+Sat Jun 1 22:41:07 2019 +0100
+Fixed bug with Saving/Loading Sequence
+
 Sat Jun 1 12:51:56 2019 +0100
 Game Setting UI Updates to 10fps (Originally 50fps), Timeline Time Updates moved to 30fps (Originally 100fps)
 This reduces how hard the ReplayAPI gets hit which reduces the chance of keyframes jittering.
