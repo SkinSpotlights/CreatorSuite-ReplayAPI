@@ -1,3 +1,16 @@
+Sat Jun 1 12:51:56 2019 +0100
+Game Setting UI Updates to 10fps (Originally 50fps), Timeline Time Updates moved to 30fps (Originally 100fps)
+This reduces how hard the ReplayAPI gets hit which reduces the chance of keyframes jittering.
+
+Sat Jun 1 12:38:20 2019 +0100
+Added a TODO, small code cleanup
+
+Sat Jun 1 12:15:31 2019 +0100
+Made Undo/Redo only crash out the tool if in Debug Mode, they still aren't implemented yet.
+
+Sat Jun 1 12:14:45 2019 +0100
+Fixed #10
+
 Sun May 26 10:31:16 2019 +0100
 Added S Icon
 
