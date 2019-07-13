@@ -1,3 +1,12 @@
+Mon Jul 1 11:16:33 2019 +0100
+Disabled Keep Alive, potentially need to revisit it and see if it works properly with the ReplayAPI to speed up requests.
+
+Mon Jul 1 10:37:18 2019 +0100
+HTTP Tweaks, Increased DefaultConnectionLimit, Disabled unnecessary feature, ensure proxy is always null, dispose of the responses properly.
+
+Tue Jun 11 10:25:42 2019 +0100
+Fixed Skybox Offset not being able to go negative
+
 Sat Jun 1 22:41:07 2019 +0100
 Fixed bug with Saving/Loading Sequence
 
