@@ -1,3 +1,33 @@
+Thu Jan 30 14:45:16 2020 +0000
+1
+
+Mon Jan 27 14:59:20 2020 +0000
+Timeline FPS Limit added to settings
+
+Mon Nov 4 15:07:12 2019 +0000
+Fixed nullreference exception
+
+Thu Oct 31 19:53:28 2019 +0000
+BUGFIX - Hotkeys shouldn't trigger when Saving/Altering a Numeric value
+
+Thu Oct 17 23:13:54 2019 +0100
+Added Clear Sequence Button
+
+Thu Oct 17 13:18:34 2019 +0100
+Space bar no longer forces on keyframes.
+Changed the Limit of Rotation Y Component from -85~85 to -360~360 (Should ideally be changed to -180~180, need to play around with it a bit more)
+
+Mon Oct 7 15:46:55 2019 +0100
+Fixed a bug with selecting keyframes when tracks when hidden.
+
+Sat Aug 24 18:48:54 2019 +0100
+Fixed Scrollbar when going from an extended zoom out to zoom in.
+
+Fixed an issue with selected area and setting keyframes.
+
+Tue Aug 20 09:51:42 2019 +0100
+Fixed Null Exception Crash if tool hasn't fully initialized - Probably more of a similar issue
+
 Wed Aug 7 14:27:32 2019 +0100
 More Rest KeepAlive and Sequence delay/length tweaks
 
