@@ -1,3 +1,33 @@
+Tue May 26 00:10:19 2020 +0100
+.
+
+Tue May 26 00:07:07 2020 +0100
+Fixed a potential PlayKeyframes Blocker
+
+Mon May 25 15:09:19 2020 +0100
+Fixed a issue with area selecting.
+Fixed a issue with keyframes being enabled when they shouldn't be.
+
+Mon May 25 14:40:09 2020 +0100
+Tool now checks to see if the full CreatorSuite Keyframe Buffer can fit in a single request and if not then default onto sending it in chunks as its playing back.
+
+Sun May 24 23:02:31 2020 +0100
+Added ReadOnly Support to Modifying Game.cfg with EnableReplayApi
+
+Sun May 24 18:35:44 2020 +0100
+Added extra place to check for config.
+
+Added TODO to handle ReadOnly files.
+
+Fri May 22 18:48:21 2020 +0100
+Using ClearKeyStates instead for Hotkey Fix.
+
+Fri May 22 18:31:28 2020 +0100
+Fixed Hotkey Issue.
+
+Mon Mar 2 18:08:51 2020 +0000
+Potential Fix for a NullException Crash.
+
 Thu Jan 30 14:45:16 2020 +0000
 1
 
