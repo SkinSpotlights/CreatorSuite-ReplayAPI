@@ -1,3 +1,17 @@
+Sat Sep 19 22:07:05 2020 +0100
+Overhauled Hotkey System
+
+Fri Sep 4 13:24:33 2020 +0100
+Added Detection for non Ascii file paths as LoL can't handle Unicode apparently for the skybox paths.
+
+Thu Sep 3 23:24:25 2020 +0100
+Fixed some more bugs with Hotkeys accidentally triggering while typing in some of the UI elements on the tool
+
+Fixed a bug with Play/Pause hotkey.
+
+Thu May 28 19:48:49 2020 +0100
+Changed the Enable Keyframes (No Rewind) to Play/Stop Keyframes with No Rewinding.
+
 Tue May 26 00:10:19 2020 +0100
 .
 
