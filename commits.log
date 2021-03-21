@@ -1,3 +1,21 @@
+Tue Mar 16 18:06:39 2021 +0000
+Fixed Decrease DOF
+
+Thu Mar 11 13:23:48 2021 +0000
+Potential fix for a rare null exception in FindGames
+
+Fri Feb 5 19:57:59 2021 +0000
+Normalize Rotation
+
+Fri Feb 5 19:43:16 2021 +0000
+Rotation takes shortest path now
+
+Sun Nov 15 16:49:25 2020 +0000
+Adjusted Coloured Skybox to create uncompressed DDS file  BGRA (8.8.8.8) instead of DXT1/5
+
+Sun Sep 20 16:52:04 2020 +0100
+Luvi was getting annoyed at Play/Stop Keyframes automatically stopping keyframes when they hit the end of them so made it a true toggle.
+
 Sat Sep 19 22:07:05 2020 +0100
 Overhauled Hotkey System
 
