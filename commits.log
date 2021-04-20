@@ -1,3 +1,25 @@
+Fri Apr 16 11:46:04 2021 +0100
+Improved Copy Logic.
+
+Fri Apr 16 11:33:49 2021 +0100
+Improved Paste Logic, code looks trash but it works
+
+Fri Apr 16 11:21:37 2021 +0100
+.
+
+Fri Apr 16 11:19:33 2021 +0100
+Fixed Copy Paste Bugs
+Improved Copy Paste Logic
+
+Thu Apr 15 21:33:45 2021 +0100
+Force a UI Update after pasting keyframes
+
+Thu Apr 15 21:28:19 2021 +0100
+Fixed a bug where copying keyframes would clear all the tracks
+
+Thu Apr 15 21:26:27 2021 +0100
+Added Copy Paste Keyframes - Untested
+
 Sun Apr 11 18:36:11 2021 +0100
 Fixed a bug where it wasn't enabling the ReplayAPI
 
