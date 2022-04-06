@@ -1,3 +1,10 @@
+Wed Apr 6 13:21:00 2022 +0100
+Added UI Kill Callouts Toggle
+Added UI Neutral Timers Toggle
+Added Banners Toggle (Only works for servers with banners enabled)
+
+Adjusted Enabling ReplayAPI if its not already enabled.
+
 Fri Apr 16 11:46:04 2021 +0100
 Improved Copy Logic.
 
